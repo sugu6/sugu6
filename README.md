@@ -23,6 +23,6 @@
   
   ![WeChat](https://img.shields.io/badge/WeChat-y3342113181-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](http://space.bilibili.com/421838041?spm_id_from=333.1007.0.0)
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sugu666&  style=flat-square" alt="Profile views" />
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sugu666&style=flat-square" alt="Profile views" />
+</p>
