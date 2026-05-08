@@ -21,8 +21,10 @@ English | [中文](README.md)
 
   ### Contact Me
   
+  ![QQ](https://img.shields.io/badge/QQ-3342113181-1EBAFC.svg?style=for-the-badge&logo=QQ&logoColor=white)
   ![WeChat](https://img.shields.io/badge/WeChat-y3342113181-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](http://space.bilibili.com/421838041?spm_id_from=333.1007.0.0)
+  [![Email](https://img.shields.io/badge/email-3342113181@qq.com-blue.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:3342113181@qq.com)
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sugu666&style=flat-square" alt="Profile views" />
   </p>
