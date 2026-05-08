@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/你的用户名)
 <!--
 **sugu666/sugu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
