@@ -1,6 +1,6 @@
 [中文](README.md) | English
 
-- ## Hi, I'm sugu666
+  ## Hi, I'm sugu666
 
   Focus on Web full-stack development, proficient in Vue.js + Spring Boot tech stack, pursue code quality and maintainability, continuously learn new technologies and architectural design, love open source, willing to share technical insights, committed to building high-quality open source projects and elegant code, creating value with technology.
 
