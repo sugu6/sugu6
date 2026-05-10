@@ -28,5 +28,5 @@
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](http://space.bilibili.com/421838041?spm_id_from=333.1007.0.0)
   [![Email](https://img.shields.io/badge/email-3342113181@qq.com-blue.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:3342113181@qq.com)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sugu666&style=flat-square" alt="Profile views" />
+  <img src="https://hits.sh/github.com/sugu666.svg?style=flat-square&label=Profile%20views&color=007ec6&logo=github" alt="Profile views" />
 </p>
