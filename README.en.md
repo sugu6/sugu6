@@ -1,6 +1,6 @@
 [中文](README.md) | English
 
-  ## Hi, I'm sugu666
+  ## Hi, I'm sugson
 
   Focus on Web full-stack development, proficient in Vue.js + Spring Boot tech stack, pursue code quality and maintainability, continuously learn new technologies and architectural design, love open source, willing to share technical insights, committed to building high-quality open source projects and elegant code, creating value with technology.
 
@@ -19,7 +19,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=sugu666&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### Support Me
-  [![AFDIAN](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/sugu666)
+  [![AFDIAN](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/sugson)
 
   ### Contact Me
   

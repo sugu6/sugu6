@@ -1,6 +1,6 @@
 中文 | [English](README.en.md)
 
-  ## Hi, I'm sugu666
+  ## Hi, I'm sugson
 
   专注于 Web 全栈开发，擅长 Vue.js + Spring Boot 技术栈，追求代码质量与可维护性，持续学习新技术与架构设计，热爱开源，乐于分享技术见解，致力于构建高质量的开源项目和优雅的代码，用技术创造价值。
 
@@ -19,7 +19,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=sugu666&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### 支持我
-  [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/sugu666)
+  [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/sugson)
 
   ### 联系我
   ![QQ](https://img.shields.io/badge/QQ-3342113181-1EBAFC.svg?style=for-the-badge&logo=QQ&logoColor=white)
