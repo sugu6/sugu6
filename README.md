@@ -16,7 +16,7 @@
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   ### GitHub 统计
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sugu666&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sugeny&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### 支持我
   [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/Sugeny)
