@@ -1,7 +1,8 @@
 中文 | [English](README.en.md)
 
   ## Hi, I'm Sugeny
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=We+sculpt+thought+into+form%2C;+one+keystroke+at+a+time.)](https://git.io/typing-svg)
+  
   专注于 Web 全栈开发，擅长 Vue.js + Spring Boot 技术栈，追求代码质量与可维护性，持续学习新技术与架构设计，热爱开源，乐于分享技术见解，致力于构建高质量的开源项目和优雅的代码，用技术创造价值。
 
   ### 技术栈

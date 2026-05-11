@@ -1,7 +1,8 @@
 [中文](README.md) | English
 
   ## Hi, I'm Sugeny
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=We+sculpt+thought+into+form%2C;+one+keystroke+at+a+time.)](https://git.io/typing-svg)
+  
   Focus on Web full-stack development, proficient in Vue.js + Spring Boot tech stack, pursue code quality and maintainability, continuously learn new technologies and architectural design, love open source, willing to share technical insights, committed to building high-quality open source projects and elegant code, creating value with technology.
 
   ### Tech Stack
