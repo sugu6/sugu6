@@ -1,6 +1,6 @@
 [中文](README.md) | English
 
-  ## Hi, I'm Sugeny
+  ## Hi, I'm Suguny
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=We+sculpt+thought+into+form%2C;+one+keystroke+at+a+time.)](https://git.io/typing-svg)
   
   Focus on Web full-stack development, proficient in Vue.js + Spring Boot tech stack, pursue code quality and maintainability, continuously learn new technologies and architectural design, love open source, willing to share technical insights, committed to building high-quality open source projects and elegant code, creating value with technology.
@@ -24,8 +24,8 @@
 
   ### Contact Me
   
-  ![QQ](https://img.shields.io/badge/QQ-3342113181-1EBAFC.svg?style=for-the-badge&logo=QQ&logoColor=white)
-  ![WeChat](https://img.shields.io/badge/WeChat-y3342113181-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)
+  ![QQ](https://img.shields.io/badge/3342113181-1EBAFC.svg?style=for-the-badge&logo=QQ&logoColor=white)
+  ![WeChat](https://img.shields.io/badge/y3342113181-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)
   [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199273371024/)
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](http://space.bilibili.com/421838041?spm_id_from=333.1007.0.0)
   [![Email](https://img.shields.io/badge/email-3342113181@qq.com-blue.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:3342113181@qq.com)
