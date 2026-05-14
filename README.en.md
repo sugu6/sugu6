@@ -20,7 +20,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Sugeny&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### Support Me
-  [![AFDIAN](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/Sugeny)
+  [![AFDIAN](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/Suguny)
 
   ### Contact Me
   

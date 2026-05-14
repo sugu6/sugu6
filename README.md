@@ -20,7 +20,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Sugeny&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### 支持我
-  [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/Sugeny)
+  [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/Suguny)
 
   ### 联系我
   ![QQ](https://img.shields.io/badge/3342113181-1EBAFC.svg?style=for-the-badge&logo=QQ&logoColor=white)
