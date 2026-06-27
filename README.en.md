@@ -1,6 +1,6 @@
 [中文](README.md) | English
 
-  ## Hi, I'm Suguny
+  ## Hi, I'm Sugu6
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=We+sculpt+thought+into+form%2C;+one+keystroke+at+a+time.)](https://git.io/typing-svg)
   
   Focus on Web full-stack development, proficient in Vue.js + Spring Boot tech stack, pursue code quality and maintainability, continuously learn new technologies and architectural design, love open source, willing to share technical insights, committed to building high-quality open source projects and elegant code, creating value with technology.
@@ -17,10 +17,10 @@
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   ### GitHub Stats
-  [![GitHub Streak](https://streak-stats.demolab.com?user=suguny&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sugu6&theme=github-dark-blue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### Support Me
-  [![AFDIAN](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/suguny)
+  [![AFDIAN](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/sugu6)
 
   ### Contact Me
   
@@ -30,5 +30,5 @@
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](http://space.bilibili.com/421838041?spm_id_from=333.1007.0.0)
   [![Email](https://img.shields.io/badge/email-3342113181@qq.com-blue.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:3342113181@qq.com)
   <p align="center">
-    <img src="https://hits.sh/github.com/sugu666.svg?style=flat-square&label=Profile%20views&color=007ec6&logo=github" alt="Profile views" />
+    <img src="https://hits.sh/github.com/sugu6.svg?style=flat-square&label=Profile%20views&color=007ec6&logo=github" alt="Profile views" />
   </p>

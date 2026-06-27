@@ -1,6 +1,6 @@
 中文 | [English](README.en.md)
 
-  ## Hi, I'm Suguny
+  ## Hi, I'm Sugu6
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=We+sculpt+thought+into+form%2C;+one+keystroke+at+a+time.)](https://git.io/typing-svg)
   
   专注于 Web 全栈开发，擅长 Vue.js + Spring Boot 技术栈，追求代码质量与可维护性，持续学习新技术与架构设计，热爱开源，乐于分享技术见解，致力于构建高质量的开源项目和优雅的代码，用技术创造价值。
@@ -17,10 +17,10 @@
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
   ### GitHub 统计
-  [![GitHub Streak](https://streak-stats.demolab.com?user=suguny&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sugu6&theme=github-dark-blue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
   ### 支持我
-  [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/suguny)
+  [![爱发电](https://img.shields.io/badge/AFDIAN-946CE6.svg?style=for-the-badge&logo=AFDIAN&logoColor=white)](https://afdian.com/a/sugu6)
 
   ### 联系我
   ![QQ](https://img.shields.io/badge/3342113181-1EBAFC.svg?style=for-the-badge&logo=QQ&logoColor=white)
@@ -29,5 +29,5 @@
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](http://space.bilibili.com/421838041?spm_id_from=333.1007.0.0)
   [![Email](https://img.shields.io/badge/email-3342113181@qq.com-blue.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:3342113181@qq.com)
 <p align="center">
-  <img src="https://hits.sh/github.com/sugu666.svg?style=flat-square&label=Profile%20views&color=007ec6&logo=github" alt="Profile views" />
+  <img src="https://hits.sh/github.com/sugu6.svg?style=flat-square&label=Profile%20views&color=007ec6&logo=github" alt="Profile views" />
 </p>
